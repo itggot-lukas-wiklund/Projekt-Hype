@@ -1,0 +1,20 @@
+#items {
+	display: flex;
+	flex-direction: column;
+}
+
+.items_row {
+	display: flex;
+	flex-direction: row;
+	justify-content: space-between;
+	padding: 10px;
+}
+
+.items_row div {
+	padding-left: 22px;
+}
+
+.items_row div h1 {
+	margin-top: 0px;
+	margin-bottom: 0px;
+}

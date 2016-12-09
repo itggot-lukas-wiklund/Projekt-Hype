@@ -1,6 +1,7 @@
 body {
 	background-image: url("../img/background.jpg");
 	font-family: "Roboto";
+	color: white;
 }
 
 button {
@@ -17,7 +18,7 @@ button {
 	margin: auto;
 }
 
-#header {
+header {
 	display: flex;
 	justify-content: center;
 	margin-bottom: 20px;
